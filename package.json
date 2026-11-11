@@ -1,0 +1,8 @@
+{
+  "name": "mandarin-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mandarin für die Reise – PWA",
+  "scripts": { "build": "node content/build-course.js && node build.js" },
+  "dependencies": { "pinyin-pro": "3.29.5" }
+}

@@ -1,0 +1,590 @@
+# u00 | 🎵 | Aussprache: Pinyin & die 4 Töne | Start
+> **Pinyin** ist die Lautschrift für Mandarin – damit liest du jedes Wort. Jede Silbe hat einen **Ton**, und der Ton ändert die Bedeutung: mā (Mutter) ≠ mǎ (Pferd).
+> **1. Ton ā** hoch und gerade · **2. Ton á** steigend wie „Hä?“ · **3. Ton ǎ** tief absinken · **4. Ton à** scharf fallend wie „Nein!“ · **neutral a** kurz und leicht.
+> Achtung bei Einzelsilben: Die Spracherkennung tut sich mit einzelnen Silben schwer. Werte hier sind nur grobe Orientierung – nutze vor allem „Anhören“ und sprich nach.
+妈 | mā | Mutter (1. Ton) | Hoch und gerade halten, wie ein gesungener Ton – nicht absinken lassen.
+麻 | má | Hanf / taub (2. Ton) | Von der Mitte nach oben ziehen, wie eine erstaunte Frage „Ma?“.
+马 | mǎ | Pferd (3. Ton) | Tief in die Stimme hinein absinken, ruhig und etwas knarzig.
+骂 | mà | schimpfen (4. Ton) | Kurz und kräftig von oben nach unten – wie ein strenges „Nein!“.
+妈妈 | māma | Mama | Erste Silbe hoch und gerade, zweite kurz und leicht (neutraler Ton).
+买 | mǎi | kaufen | Tiefer 3. Ton. Gegenstück: mài (4. Ton) heißt „verkaufen“!
+卖 | mài | verkaufen | Scharf fallend. Nur der Ton unterscheidet kaufen (mǎi) und verkaufen (mài).
+汤 | tāng | Suppe | Hoch und gerade. Mit Ton 2 (táng) heißt es „Zucker“.
+糖 | táng | Zucker / Süßigkeit | Steigend. „ang“ wie in „lang“.
+四 | sì | vier | Zunge flach hinter den Zähnen, scharfes „ss“, fallend.
+十 | shí | zehn | Zungenspitze nach hinten gebogen („sch“-artig), steigend. sì (4) und shí (10) sauber trennen!
+七 | qī | sieben | „q“ = „tch“ mit breit gezogenen Lippen (wie beim Lächeln), hoch und gerade.
+鸡 | jī | Huhn | „j“ = weiches „dj“ mit lächelnden Lippen, hoch und gerade.
+西 | xī | Westen | „x“ = weiches „ch“ wie in „ich“, hoch und gerade.
+吃 | chī | essen | „ch“ = „tsch“ mit nach hinten gebogener Zunge. Das „i“ klingt hier wie ein summendes „r“.
+是 | shì | sein (ist/bin) | „sh“ mit zurückgebogener Zunge, das „i“ klingt wie ein „r“ – etwa „schr“, fallend.
+日 | rì | Tag / Sonne | „r“ wie ein summendes „j“ in „Journal“, Zunge nach hinten gebogen.
+字 | zì | Schriftzeichen | „z“ = „ds“, Zunge vorne. Das „i“ bleibt ein summendes „s“.
+次 | cì | Mal (Häufigkeit) | „c“ = „ts“ mit Luftstoß, wie in „Zahn“.
+三 | sān | drei | Vorne-„s“. Vergleiche shān (Berg) mit zurückgebogener Zunge.
+山 | shān | Berg | Zunge nach hinten: „schan“, hoch und gerade.
+女 | nǚ | Frau / weiblich | „ü“ wie im Deutschen, tiefer 3. Ton. Deutsche haben hier einen Vorteil!
+绿 | lǜ | grün | Deutsches „ü“, scharf fallend.
+鱼 | yú | Fisch | „yu“ wird „ü“ gesprochen, steigend.
+二 | èr | zwei | Wie ein amerikanisches „ar“ mit eingerollter Zunge, fallend.
+人 | rén | Mensch | „r“ summend wie in „Journal“, „en“ kurz. Steigend.
+饿 | è | hungrig | „e“ ist ein dunkler Laut zwischen „ö“ und „ä“ ohne Lippenrundung, fallend.
+你好 | nǐ hǎo | Hallo (Tonregel 3+3) | **Tonregel:** Zwei 3. Töne hintereinander → der erste wird zum 2. Ton: „ní hǎo“.
+很好 | hěn hǎo | sehr gut (Tonregel 3+3) | Wieder 3+3: „hén hǎo“ sprechen.
+不是 | bú shì | ist nicht | **Tonregel:** 不 bù wird vor einem 4. Ton zu bú (steigend).
+一个 | yí ge | ein (Stück) | **Tonregel:** 一 yī wird vor einem 4. Ton zu yí, vor 1./2./3. Ton zu yì.
+# u01 | 👋 | Begrüßen & höflich sein | 1
+> Im Chinesischen werden Verben **nie konjugiert**: 我是, 你是, 他是 – immer gleich. Kein Artikel, kein Geschlecht, keine Fälle.
+> **您 nín** ist das höfliche „Sie“ – gut für Geschäftspartner, Hotelpersonal, Ältere. Unter Gleichaltrigen reicht 你 nǐ.
+你好 | nǐ hǎo | Hallo | Zwei 3. Töne: das erste „nǐ“ wird steigend → „ní hǎo“.
+您好 | nín hǎo | Guten Tag (höflich) | „nín“ steigend, dann tiefes „hǎo“. Perfekt für Geschäftspartner.
+谢谢 | xièxie | Danke | „x“ = weiches „ch“ wie in „ich“. Erste Silbe fallend, zweite kurz und tonlos.
+不客气 | bú kèqi | Bitte, gern geschehen | „bú“ steigend (vor 4. Ton). „qi“ = „tchi“ kurz und tonlos.
+不好意思 | bù hǎo yìsi | Entschuldigung (Verzeihung) | „bù“ scharf fallend, „hǎo“ tief, „si“ kurz und tonlos.
+对不起 | duìbuqǐ | Es tut mir leid | „duì“ fallend, „bu“ leicht, „qǐ“ tief.
+没关系 | méi guānxi | Kein Problem / macht nichts | „méi“ steigt, „guān“ hoch und gerade, „xi“ kurz und tonlos.
+请 | qǐng | Bitte (Aufforderung) | „q“ wie „tch“ mit lächelnden Lippen, dann tief absinken.
+再见 | zàijiàn | Auf Wiedersehen | „z“ = „ds“. Zwei bestimmt fallende Töne.
+早上好 | zǎoshang hǎo | Guten Morgen | „zǎo“ tief, „shang“ leicht, „hǎo“ tief.
+晚上好 | wǎnshang hǎo | Guten Abend | „wǎn“ tief absinken, „shang“ kurz.
+晚安 | wǎn'ān | Gute Nacht | „wǎn“ tief, „ān“ hoch und gerade.
+好久不见 | hǎojiǔ bú jiàn | Lange nicht gesehen! | „hǎojiǔ“: 3+3 → „háojiǔ“. „bú“ vor 4. Ton.
+你好吗? | nǐ hǎo ma? | Wie geht es dir? | 吗 macht aus jedem Satz eine Ja/Nein-Frage – kurz und tonlos ans Ende.
+我很好 | wǒ hěn hǎo | Mir geht es gut | Drei 3. Töne: „wó hén hǎo“ – nur der letzte bleibt tief.
+你呢? | nǐ ne? | Und du? | 呢 = „und …?“ – fragt zurück, ohne den Satz zu wiederholen.
+也 | yě | auch | Tiefer 3. Ton. Steht immer vor dem Verb: 我也很好 – mir geht's auch gut.
+我也很好 | wǒ yě hěn hǎo | Mir geht es auch gut | Vier 3. Töne! Locker gesprochen: „wó yé hén hǎo“.
+是 | shì | ja / sein | „schr“ mit zurückgebogener Zunge, fallend.
+对 | duì | richtig / stimmt | Kurz fallend: „duej“. Häufigste Art, „ja, genau“ zu sagen.
+好的 | hǎo de | Okay / In Ordnung | „hǎo“ tief, „de“ leicht. Die Universal-Zustimmung.
+不 | bù | nein / nicht | Scharf fallend. Vor 4. Ton wird es zu „bú“.
+不用 | bú yòng | nicht nötig / nein danke | „bú“ steigend vor dem 4. Ton „yòng“.
+欢迎 | huānyíng | Willkommen | „huān“ hoch, „yíng“ steigend.
+请进 | qǐng jìn | Bitte herein | „qǐng“ tief, „jìn“ = „djin“ fallend.
+请坐 | qǐng zuò | Bitte setzen Sie sich | „zuò“ = „dsuo“ fallend.
+# u02 | 🙋 | Ich, du & 是 – erste Sätze | 1
+> **Personalpronomen:** 我 wǒ ich · 你 nǐ du · 他/她 tā er/sie · 我们 wǒmen wir · 你们 nǐmen ihr · 他们 tāmen sie (Plural). 们 macht den Plural.
+> **是 shì = sein**, aber nur zwischen zwei Nomen: 我是德国人 (Ich bin Deutscher). Vor Adjektiven steht stattdessen meist 很: 我很忙 (Ich bin beschäftigt).
+> **Verneinung:** 不 bù vor das Verb: 我不是… · **Frage:** 吗 ma ans Satzende: 你是…吗?
+我 | wǒ | ich
+你 | nǐ | du
+他 | tā | er
+她 | tā | sie (Singular) | Gleich ausgesprochen wie 他 „er“ – nur die Schrift unterscheidet.
+我们 | wǒmen | wir
+你们 | nǐmen | ihr
+他们 | tāmen | sie (Plural)
+我是奥地利人 | wǒ shì Àodìlìrén | Ich bin Österreicher
+我是德国人 | wǒ shì Déguórén | Ich bin Deutscher
+你是中国人吗? | nǐ shì Zhōngguórén ma? | Bist du Chinese?
+我不是美国人 | wǒ bú shì Měiguórén | Ich bin kein Amerikaner | 不 wird vor 是 (4. Ton) zu „bú“.
+你叫什么名字? | nǐ jiào shénme míngzi? | Wie heißt du?
+我叫… | wǒ jiào … | Ich heiße … | Danach einfach deinen Namen sagen.
+您贵姓? | nín guìxìng? | Wie ist Ihr (Familien-)Name? (sehr höflich)
+我姓… | wǒ xìng … | Mein Familienname ist …
+认识你很高兴 | rènshi nǐ hěn gāoxìng | Freut mich, dich kennenzulernen
+他是我的同事 | tā shì wǒ de tóngshì | Er ist mein Kollege
+她是我的朋友 | tā shì wǒ de péngyou | Sie ist meine Freundin
+我很忙 | wǒ hěn máng | Ich bin beschäftigt | Vor Adjektiven 很 statt 是 – 很 heißt hier kaum „sehr“.
+我很累 | wǒ hěn lèi | Ich bin müde
+你忙吗? | nǐ máng ma? | Bist du beschäftigt?
+我不忙 | wǒ bù máng | Ich bin nicht beschäftigt
+中国 | Zhōngguó | China
+德国 | Déguó | Deutschland
+奥地利 | Àodìlì | Österreich
+维也纳 | Wéiyěnà | Wien
+我从维也纳来 | wǒ cóng Wéiyěnà lái | Ich komme aus Wien | 从 … 来 = „aus … kommen“. Ort steht zwischen 从 und 来.
+你从哪里来? | nǐ cóng nǎlǐ lái? | Woher kommst du?
+# u03 | 🔢 | Zahlen 0–100 | 1
+> Chinesische Zahlen sind herrlich logisch: **11 = 十一** (zehn-eins), **20 = 二十** (zwei-zehn), **35 = 三十五** (drei-zehn-fünf).
+> **二 èr** zählt, **两 liǎng** steht vor Zählwörtern: 两个 (zwei Stück). Die **4 (四 sì)** gilt als Unglückszahl (klingt wie 死 sǐ, „sterben“), die **8 (八 bā)** als Glückszahl.
+> Tipp für Geschäftsreisen: Chinesen zeigen Zahlen 1–10 mit **einer Hand** – frag ruhig, wie die Gesten gehen.
+零 | líng | null
+一 | yī | eins
+二 | èr | zwei
+三 | sān | drei
+四 | sì | vier
+五 | wǔ | fünf
+六 | liù | sechs
+七 | qī | sieben
+八 | bā | acht
+九 | jiǔ | neun
+十 | shí | zehn
+十一 | shíyī | elf
+十二 | shí'èr | zwölf
+十五 | shíwǔ | fünfzehn
+二十 | èrshí | zwanzig
+二十五 | èrshíwǔ | fünfundzwanzig
+三十 | sānshí | dreißig
+四十八 | sìshíbā | achtundvierzig | sì (4) vorne-s, shí (10) mit zurückgebogener Zunge – sauber trennen!
+六十 | liùshí | sechzig
+九十九 | jiǔshíjiǔ | neunundneunzig
+一百 | yìbǎi | hundert
+两个 | liǎng ge | zwei Stück | Vor Zählwörtern immer 两 statt 二.
+几个? | jǐ ge? | Wie viele? (bis ca. 10)
+多少? | duōshao? | Wie viel(e)?
+电话号码 | diànhuà hàomǎ | Telefonnummer
+你的电话号码是多少? | nǐ de diànhuà hàomǎ shì duōshao? | Wie ist deine Telefonnummer?
+幺 | yāo | eins (in Telefonnummern, Zimmernummern) | Statt yī sagt man bei Ziffernfolgen oft yāo, damit es nicht wie qī (7) klingt.
+# u04 | 💴 | Geld & Preise | 1
+> **块 kuài** ist das Alltagswort für Yuan (offiziell 元 yuán), **毛 máo** sind 10 Fen (0,10 Yuan). In Hongkong zahlt man mit **港币 gǎngbì** (HK-Dollar).
+> **太…了 tài … le** = „zu …“: 太贵了 (zu teuer). Ein Adjektiv zwischen 太 und 了 setzen.
+> In China zahlt fast jeder mit **WeChat Pay** oder **Alipay** – Bargeld wird seltener, ist aber gesetzliches Zahlungsmittel.
+钱 | qián | Geld
+多少钱? | duōshao qián? | Wie viel kostet das?
+块 | kuài | Yuan (umgangssprachlich)
+元 | yuán | Yuan (offiziell)
+毛 | máo | 10 Fen (0,10 Yuan)
+人民币 | rénmínbì | Renminbi (chinesische Währung)
+港币 | gǎngbì | Hongkong-Dollar
+十块 | shí kuài | 10 Yuan
+一百块 | yìbǎi kuài | 100 Yuan
+五十块 | wǔshí kuài | 50 Yuan
+这个多少钱? | zhège duōshao qián? | Wie viel kostet das hier?
+太贵了 | tài guì le | Das ist zu teuer
+便宜 | piányi | billig
+便宜一点 | piányi yìdiǎn | Etwas billiger, bitte
+可以便宜一点吗? | kěyǐ piányi yìdiǎn ma? | Geht es etwas billiger?
+贵 | guì | teuer
+不贵 | bú guì | nicht teuer
+买单 | mǎidān | Die Rechnung, bitte | Achtung: mǎi (kaufen) tief, nicht mài (verkaufen).
+我来付 | wǒ lái fù | Ich zahle (das übernehme ich)
+现金 | xiànjīn | Bargeld
+刷卡 | shuākǎ | mit Karte zahlen
+可以刷卡吗? | kěyǐ shuākǎ ma? | Kann ich mit Karte zahlen?
+微信支付 | Wēixìn zhīfù | WeChat Pay
+支付宝 | Zhīfùbǎo | Alipay
+可以用支付宝吗? | kěyǐ yòng Zhīfùbǎo ma? | Kann ich Alipay benutzen?
+发票 | fāpiào | (offizielle) Rechnung / Quittung | Für Spesenabrechnungen wichtig: nach 发票 fragen!
+我要发票 | wǒ yào fāpiào | Ich brauche eine Rechnung
+找钱 | zhǎoqián | Wechselgeld geben
+# u05 | 🧮 | Zählwörter (Maßwörter) | 2
+> Zwischen Zahl und Nomen steht im Chinesischen immer ein **Zählwort**: 一**个**人 (ein Mensch), 两**杯**咖啡 (zwei Tassen Kaffee). Ähnlich wie im Deutschen „zwei Tassen Kaffee“ – nur bei jedem Nomen.
+> **个 ge** ist das Universal-Zählwort – im Zweifel passt es fast immer. Dazu kommen 这 zhè (dies) und 那 nà (das): 这个, 那个.
+个 | ge | (allgemeines Zählwort)
+这个 | zhège | dies hier
+那个 | nàge | das dort
+哪个? | nǎge? | welches?
+一个人 | yí ge rén | eine Person
+杯 | bēi | Glas, Tasse (Zählwort)
+一杯咖啡 | yì bēi kāfēi | eine Tasse Kaffee
+两杯茶 | liǎng bēi chá | zwei Tassen Tee
+瓶 | píng | Flasche (Zählwort)
+一瓶水 | yì píng shuǐ | eine Flasche Wasser
+两瓶啤酒 | liǎng píng píjiǔ | zwei Flaschen Bier
+张 | zhāng | (für flache Dinge: Tickets, Tische, Karten)
+一张票 | yì zhāng piào | ein Ticket
+一张名片 | yì zhāng míngpiàn | eine Visitenkarte
+位 | wèi | (höfliches Zählwort für Personen)
+几位? | jǐ wèi? | Wie viele Personen? (im Restaurant)
+两位 | liǎng wèi | zwei Personen
+碗 | wǎn | Schale (Zählwort)
+一碗米饭 | yì wǎn mǐfàn | eine Schale Reis
+本 | běn | (für Bücher, Hefte)
+一本书 | yì běn shū | ein Buch
+件 | jiàn | (für Kleidung, Angelegenheiten)
+一件衣服 | yí jiàn yīfu | ein Kleidungsstück
+双 | shuāng | Paar (Zählwort)
+一双筷子 | yì shuāng kuàizi | ein Paar Stäbchen
+# u06 | 🚕 | Taxi & Wegbeschreibung | 2
+> **在 zài = sich befinden (in/an):** 地铁站在哪里? (Wo ist die U-Bahn-Station?) – wörtlich „U-Bahn-Station befindet-sich wo?“. Fragewörter stehen dort, wo die Antwort stehen würde – **keine Umstellung** wie im Deutschen.
+> **去 qù + Ort = nach … fahren/gehen:** 我去机场. Im Taxi zeigst du am besten zusätzlich die Adresse auf Chinesisch am Handy.
+> Taxi-Apps: In China **DiDi (滴滴)**, in Hongkong rote/grüne Taxis oder Uber.
+去 | qù | gehen, fahren (nach)
+我要去这里 | wǒ yào qù zhèlǐ | Ich möchte hierhin (zeigt aufs Handy)
+请去机场 | qǐng qù jīchǎng | Bitte zum Flughafen
+机场 | jīchǎng | Flughafen
+火车站 | huǒchēzhàn | Bahnhof
+高铁站 | gāotiězhàn | Schnellzug-Bahnhof
+地铁站 | dìtiězhàn | U-Bahn-Station
+酒店 | jiǔdiàn | Hotel
+出租车 | chūzūchē | Taxi
+打车 | dǎchē | ein Taxi nehmen
+在哪里? | zài nǎlǐ? | Wo ist …? | „nǎlǐ“: zwei 3. Töne → „nálǐ“. nǎ (wo) ≠ nà (dort)!
+地铁站在哪里? | dìtiězhàn zài nǎlǐ? | Wo ist die U-Bahn-Station?
+这里 | zhèlǐ | hier
+那里 | nàlǐ | dort
+左边 | zuǒbian | links
+右边 | yòubian | rechts
+往左拐 | wǎng zuǒ guǎi | links abbiegen
+往右拐 | wǎng yòu guǎi | rechts abbiegen
+一直走 | yìzhí zǒu | geradeaus gehen/fahren
+在这里停 | zài zhèlǐ tíng | Hier bitte anhalten
+请快一点 | qǐng kuài yìdiǎn | Bitte etwas schneller
+请慢一点 | qǐng màn yìdiǎn | Bitte etwas langsamer
+远吗? | yuǎn ma? | Ist es weit?
+不远 | bù yuǎn | Nicht weit
+近 | jìn | nah
+要多长时间? | yào duō cháng shíjiān? | Wie lange dauert es?
+堵车 | dǔchē | Stau
+到了 | dào le | Wir sind da
+请打表 | qǐng dǎ biǎo | Bitte das Taxameter einschalten
+后备箱 | hòubèixiāng | Kofferraum
+# u07 | 🕐 | Zeit & Uhrzeit | 2
+> **Zeit steht vor dem Verb**, nie am Satzende: 我**明天**去上海 (Ich fahre **morgen** nach Shanghai). Das ist eine der wichtigsten Satzbauregeln.
+> **点 diǎn** = Uhr, **分 fēn** = Minute, **半 bàn** = halb: 三点半 = 3:30. 上午/下午 = vormittags/nachmittags.
+> **几 jǐ** fragt nach kleinen Zahlen: 几点? (Wie viel Uhr?).
+现在 | xiànzài | jetzt
+现在几点? | xiànzài jǐ diǎn? | Wie spät ist es?
+点 | diǎn | Uhr (Uhrzeit)
+分 | fēn | Minute
+半 | bàn | halb
+三点半 | sān diǎn bàn | halb vier (3:30)
+八点十分 | bā diǎn shí fēn | 8:10 Uhr
+两点 | liǎng diǎn | 2 Uhr | Bei Uhrzeiten auch 两 statt 二.
+早上 | zǎoshang | früh morgens
+上午 | shàngwǔ | vormittags
+中午 | zhōngwǔ | mittags
+下午 | xiàwǔ | nachmittags
+晚上 | wǎnshang | abends
+今天 | jīntiān | heute
+明天 | míngtiān | morgen
+昨天 | zuótiān | gestern
+后天 | hòutiān | übermorgen
+小时 | xiǎoshí | Stunde
+一个小时 | yí ge xiǎoshí | eine Stunde
+分钟 | fēnzhōng | Minute(n) (Dauer)
+十分钟 | shí fēnzhōng | zehn Minuten
+等一下 | děng yíxià | Moment bitte / warte kurz
+我明天去上海 | wǒ míngtiān qù Shànghǎi | Ich fahre morgen nach Shanghai
+你几点到? | nǐ jǐ diǎn dào? | Wann kommst du an?
+我下午三点到 | wǒ xiàwǔ sān diǎn dào | Ich komme um 15 Uhr an
+早 | zǎo | früh
+晚 | wǎn | spät
+来不及了 | lái bu jí le | Das schaffen wir nicht mehr (zu spät)
+# u08 | 📅 | Datum & Wochentage | 2
+> Datumsangaben gehen **vom Großen zum Kleinen**: Jahr → Monat → Tag → Uhrzeit: 2026年11月11号 下午三点.
+> **Monate** sind einfach Zahl + 月: 一月 (Januar) … 十二月 (Dezember). **Wochentage**: 星期 + Zahl: 星期一 (Montag) … 星期六 (Samstag), aber Sonntag = 星期天.
+年 | nián | Jahr
+月 | yuè | Monat
+号 | hào | Tag (Datum)
+今年 | jīnnián | dieses Jahr
+明年 | míngnián | nächstes Jahr
+一月 | yīyuè | Januar
+十二月 | shí'èryuè | Dezember
+十一月十一号 | shíyīyuè shíyī hào | 11. November
+星期 | xīngqī | Woche
+星期一 | xīngqīyī | Montag
+星期三 | xīngqīsān | Mittwoch
+星期五 | xīngqīwǔ | Freitag
+星期六 | xīngqīliù | Samstag
+星期天 | xīngqītiān | Sonntag
+周末 | zhōumò | Wochenende
+这个星期 | zhège xīngqī | diese Woche
+下个星期 | xià ge xīngqī | nächste Woche
+上个星期 | shàng ge xīngqī | letzte Woche
+今天几号? | jīntiān jǐ hào? | Der Wievielte ist heute?
+今天星期几? | jīntiān xīngqī jǐ? | Welcher Wochentag ist heute?
+生日 | shēngrì | Geburtstag
+春节 | Chūnjié | Chinesisches Neujahr | Rund um 春节 ist halb China unterwegs – Flüge und Hotels früh buchen!
+# u09 | 🏨 | Im Hotel | 2
+> **有 yǒu = haben / es gibt**, verneint immer mit **没 méi** (nicht 不!): 有没有房间? – 没有.
+> **Ja/Nein-Fragen auch ohne 吗:** Verb + 不/没 + Verb: 有没有? (Gibt es … oder nicht?), 是不是? (Stimmt das?).
+有 | yǒu | haben / es gibt
+没有 | méiyǒu | nicht haben / es gibt nicht | 有 wird immer mit 没 verneint, nie mit 不.
+有没有? | yǒu méiyǒu? | Gibt es …? / Haben Sie …?
+我有预订 | wǒ yǒu yùdìng | Ich habe eine Reservierung
+房间 | fángjiān | Zimmer
+有没有房间? | yǒu méiyǒu fángjiān? | Haben Sie ein Zimmer frei?
+入住 | rùzhù | einchecken
+退房 | tuìfáng | auschecken
+我要退房 | wǒ yào tuìfáng | Ich möchte auschecken
+护照 | hùzhào | Reisepass
+这是我的护照 | zhè shì wǒ de hùzhào | Das ist mein Reisepass
+钥匙 | yàoshi | Schlüssel
+房卡 | fángkǎ | Zimmerkarte
+几楼? | jǐ lóu? | Welcher Stock?
+电梯 | diàntī | Aufzug
+早餐 | zǎocān | Frühstück
+早餐几点? | zǎocān jǐ diǎn? | Wann gibt es Frühstück?
+无线网 | wúxiànwǎng | WLAN
+密码 | mìmǎ | Passwort
+无线网密码是多少? | wúxiànwǎng mìmǎ shì duōshao? | Wie lautet das WLAN-Passwort?
+洗手间在哪里? | xǐshǒujiān zài nǎlǐ? | Wo ist die Toilette?
+空调坏了 | kōngtiáo huài le | Die Klimaanlage ist kaputt
+热水 | rèshuǐ | heißes Wasser
+没有热水 | méiyǒu rèshuǐ | Es gibt kein heißes Wasser
+请打扫房间 | qǐng dǎsǎo fángjiān | Bitte das Zimmer reinigen
+可以寄存行李吗? | kěyǐ jìcún xíngli ma? | Kann ich mein Gepäck aufbewahren lassen?
+行李 | xíngli | Gepäck
+叫醒服务 | jiàoxǐng fúwù | Weckdienst
+# u10 | 🥢 | Im Restaurant bestellen | 2
+> **要 yào = wollen/möchten** (direkt, ganz normal beim Bestellen): 我要这个. **想 xiǎng = möchte gern** (weicher): 我想喝茶.
+> **不要 bú yào** = „bitte nicht / ohne“: 不要辣 (nicht scharf), 不要冰 (ohne Eis). Sehr nützlich!
+> Den Kellner ruft man in China einfach mit **服务员! fúwùyuán** – das ist nicht unhöflich.
+服务员 | fúwùyuán | Kellner(in) / Bedienung
+菜单 | càidān | Speisekarte
+请给我菜单 | qǐng gěi wǒ càidān | Die Speisekarte, bitte
+我要这个 | wǒ yào zhège | Ich möchte das hier
+我想喝茶 | wǒ xiǎng hē chá | Ich möchte gern Tee trinken
+点菜 | diǎncài | bestellen (Essen)
+有英文菜单吗? | yǒu Yīngwén càidān ma? | Gibt es eine englische Speisekarte?
+推荐 | tuījiàn | empfehlen
+你推荐什么? | nǐ tuījiàn shénme? | Was empfehlen Sie?
+不要辣 | bú yào là | Bitte nicht scharf | 不 → bú vor dem 4. Ton.
+微辣 | wēi là | leicht scharf
+很辣 | hěn là | sehr scharf
+不要冰 | bú yào bīng | ohne Eis
+不要香菜 | bú yào xiāngcài | ohne Koriander
+我不吃肉 | wǒ bù chī ròu | Ich esse kein Fleisch
+我对花生过敏 | wǒ duì huāshēng guòmǐn | Ich bin allergisch gegen Erdnüsse
+好吃 | hǎochī | lecker
+很好吃 | hěn hǎochī | Sehr lecker
+吃饱了 | chībǎo le | Ich bin satt
+再来一个 | zài lái yí ge | Noch einen/eins, bitte
+打包 | dǎbāo | einpacken (zum Mitnehmen)
+可以打包吗? | kěyǐ dǎbāo ma? | Kann ich das einpacken lassen?
+在这里吃 | zài zhèlǐ chī | hier essen
+带走 | dàizǒu | zum Mitnehmen
+干杯! | gānbēi! | Prost!
+筷子 | kuàizi | Stäbchen
+勺子 | sháozi | Löffel
+叉子 | chāzi | Gabel
+餐巾纸 | cānjīnzhǐ | Serviette
+# u11 | 🍜 | Essen & Trinken – Wortschatz | 2
+> **Verb + Objekt:** 喝茶 (Tee trinken), 吃饭 (essen, wörtlich „Reis essen“). 吃饭了吗? (Hast du schon gegessen?) ist eine typische Begrüßung – keine Einladung!
+> Viele Gerichte bestehen aus **Zutat + Zubereitung**: 炒饭 (gebratener Reis), 炒面 (gebratene Nudeln).
+吃 | chī | essen
+喝 | hē | trinken
+吃饭 | chīfàn | essen (eine Mahlzeit)
+你吃饭了吗? | nǐ chīfàn le ma? | Hast du schon gegessen? (Begrüßung)
+水 | shuǐ | Wasser
+茶 | chá | Tee
+绿茶 | lǜchá | grüner Tee
+咖啡 | kāfēi | Kaffee
+啤酒 | píjiǔ | Bier
+红酒 | hóngjiǔ | Rotwein
+果汁 | guǒzhī | Saft
+米饭 | mǐfàn | (gekochter) Reis
+面条 | miàntiáo | Nudeln
+饺子 | jiǎozi | Teigtaschen (Jiaozi)
+包子 | bāozi | gefüllte Dampfbrötchen
+小笼包 | xiǎolóngbāo | Suppen-Teigtaschen (Shanghai-Spezialität) | Typisch Shanghai! Vorsicht, die heiße Suppe im Inneren.
+点心 | diǎnxin | Dim Sum | In Hongkong: 饮茶 (Yum Cha) – Dim Sum mit Tee am Vormittag.
+炒饭 | chǎofàn | gebratener Reis
+炒面 | chǎomiàn | gebratene Nudeln
+鸡肉 | jīròu | Hühnerfleisch
+牛肉 | niúròu | Rindfleisch
+猪肉 | zhūròu | Schweinefleisch
+鱼 | yú | Fisch
+虾 | xiā | Garnele
+蔬菜 | shūcài | Gemüse
+鸡蛋 | jīdàn | Ei
+水果 | shuǐguǒ | Obst
+甜 | tián | süß
+辣 | là | scharf
+咸 | xián | salzig
+早饭 | zǎofàn | Frühstück
+午饭 | wǔfàn | Mittagessen
+晚饭 | wǎnfàn | Abendessen
+# u12 | 🛍️ | Einkaufen | 3
+> **可以…吗? kěyǐ … ma?** = „Darf/Kann ich …?“ – die höfliche Universalfrage: 可以试试吗? (Kann ich das anprobieren?)
+> **Verdopplung macht weicher:** 看看 (mal schauen), 试试 (mal probieren). 我看看 = „Ich schau nur mal“ – perfekt gegen aufdringliche Verkäufer.
+> **Adjektiv + 一点 yìdiǎn** = „etwas …er“: 大一点 (etwas größer), 便宜一点 (etwas billiger).
+买 | mǎi | kaufen
+卖 | mài | verkaufen
+商店 | shāngdiàn | Geschäft, Laden
+超市 | chāoshì | Supermarkt
+商场 | shāngchǎng | Einkaufszentrum
+我看看 | wǒ kànkan | Ich schaue nur mal
+我想买这个 | wǒ xiǎng mǎi zhège | Ich möchte das kaufen
+有没有别的颜色? | yǒu méiyǒu bié de yánsè? | Gibt es andere Farben?
+颜色 | yánsè | Farbe
+大 | dà | groß
+小 | xiǎo | klein
+大一点 | dà yìdiǎn | etwas größer
+小一点 | xiǎo yìdiǎn | etwas kleiner
+可以试试吗? | kěyǐ shìshi ma? | Kann ich das anprobieren?
+太大了 | tài dà le | zu groß
+太小了 | tài xiǎo le | zu klein
+红色 | hóngsè | rot
+黑色 | hēisè | schwarz
+白色 | báisè | weiß
+蓝色 | lánsè | blau
+礼物 | lǐwù | Geschenk
+我要这个 | wǒ yào zhège | Ich nehme das
+不要了 | bú yào le | Ich will es doch nicht mehr
+袋子 | dàizi | Tüte
+要袋子吗? | yào dàizi ma? | Brauchen Sie eine Tüte?
+可以退吗? | kěyǐ tuì ma? | Kann man das zurückgeben?
+充电器 | chōngdiànqì | Ladegerät
+手机 | shǒujī | Handy
+电话卡 | diànhuàkǎ | SIM-Karte
+# u13 | 🔗 | Besitz & 的 | 3
+> **的 de** zeigt Besitz und verbindet Beschreibung + Nomen: 我**的**护照 (mein Pass), 公司**的**地址 (die Adresse der Firma), 红色**的**车 (das rote Auto).
+> Bei engen Beziehungen fällt 的 oft weg: 我妈妈 (meine Mutter), 我们公司 (unsere Firma).
+的 | de | (Besitz-/Verbindungspartikel)
+我的 | wǒ de | mein
+你的 | nǐ de | dein
+他的 | tā de | sein
+我们的 | wǒmen de | unser
+这是谁的? | zhè shì shéi de? | Wem gehört das?
+这是我的 | zhè shì wǒ de | Das gehört mir
+我的手机 | wǒ de shǒujī | mein Handy
+我的行李 | wǒ de xíngli | mein Gepäck
+公司 | gōngsī | Firma
+我们公司 | wǒmen gōngsī | unsere Firma
+公司的地址 | gōngsī de dìzhǐ | die Adresse der Firma
+地址 | dìzhǐ | Adresse
+我的名片 | wǒ de míngpiàn | meine Visitenkarte
+这是我的名片 | zhè shì wǒ de míngpiàn | Das ist meine Visitenkarte | Mit beiden Händen überreichen – Schrift zum Gegenüber gedreht.
+我的朋友 | wǒ de péngyou | mein Freund / meine Freundin
+我太太 | wǒ tàitai | meine Frau
+我的家 | wǒ de jiā | mein Zuhause
+新的 | xīn de | ein neues
+旧的 | jiù de | ein altes
+大的 | dà de | ein großes
+# u14 | ⏮️ | Vergangenheit mit 了 und 过 | 3
+> Chinesisch hat keine Zeitformen. **了 le** nach dem Verb zeigt: Die Handlung ist **abgeschlossen**: 我吃了 (Ich habe gegessen). Verneint mit **没 (有)** – dann ohne 了: 我没吃.
+> **过 guo** nach dem Verb = „schon einmal erlebt“: 我去过香港 (Ich war schon mal in Hongkong).
+> **了 am Satzende** zeigt eine **neue Situation**: 下雨了 (Jetzt regnet es), 我饿了 (Jetzt habe ich Hunger).
+了 | le | (abgeschlossen / neue Situation)
+我吃了 | wǒ chī le | Ich habe gegessen
+我没吃 | wǒ méi chī | Ich habe nicht gegessen
+我到了 | wǒ dào le | Ich bin angekommen
+飞机晚点了 | fēijī wǎndiǎn le | Der Flug hat Verspätung
+我买了一张票 | wǒ mǎi le yì zhāng piào | Ich habe ein Ticket gekauft
+你去过香港吗? | nǐ qù guo Xiānggǎng ma? | Warst du schon einmal in Hongkong?
+我去过深圳 | wǒ qù guo Shēnzhèn | Ich war schon einmal in Shenzhen
+我没去过 | wǒ méi qù guo | Ich war noch nie dort
+香港 | Xiānggǎng | Hongkong
+深圳 | Shēnzhèn | Shenzhen
+上海 | Shànghǎi | Shanghai
+北京 | Běijīng | Peking
+广州 | Guǎngzhōu | Guangzhou
+我饿了 | wǒ è le | Ich habe Hunger (jetzt)
+我累了 | wǒ lèi le | Ich bin (jetzt) müde
+下雨了 | xià yǔ le | Es regnet (jetzt)
+好了 | hǎo le | Fertig / So, gut
+我忘了 | wǒ wàng le | Ich habe es vergessen
+我知道了 | wǒ zhīdào le | Verstanden / Ich weiß jetzt Bescheid
+你吃过北京烤鸭吗? | nǐ chī guo Běijīng kǎoyā ma? | Hast du schon mal Peking-Ente gegessen?
+# u15 | 💪 | Wollen, können, müssen | 3
+> **想 xiǎng** möchte gern · **要 yào** wollen / werden / müssen · **会 huì** können (gelernt) · **能 néng** können (möglich) · **可以 kěyǐ** dürfen · **得 děi** müssen.
+> Das Hilfsverb steht **vor dem Hauptverb**: 我会说一点中文 (Ich kann ein bisschen Chinesisch sprechen).
+想 | xiǎng | möchten / denken
+要 | yào | wollen / brauchen
+会 | huì | können (gelernt)
+能 | néng | können (möglich sein)
+可以 | kěyǐ | dürfen / können
+得 | děi | müssen
+我会说一点中文 | wǒ huì shuō yìdiǎn Zhōngwén | Ich spreche ein bisschen Chinesisch
+你会说英语吗? | nǐ huì shuō Yīngyǔ ma? | Sprichst du Englisch?
+我不会说中文 | wǒ bú huì shuō Zhōngwén | Ich spreche kein Chinesisch
+我在学中文 | wǒ zài xué Zhōngwén | Ich lerne gerade Chinesisch | 在 vor dem Verb = gerade dabei sein.
+我听不懂 | wǒ tīng bu dǒng | Ich verstehe nicht (akustisch)
+我听得懂 | wǒ tīng de dǒng | Ich verstehe (es)
+请再说一遍 | qǐng zài shuō yí biàn | Bitte noch einmal sagen
+请说慢一点 | qǐng shuō màn yìdiǎn | Bitte langsamer sprechen
+这里可以抽烟吗? | zhèlǐ kěyǐ chōuyān ma? | Darf man hier rauchen?
+我可以拍照吗? | wǒ kěyǐ pāizhào ma? | Darf ich fotografieren?
+我能用一下吗? | wǒ néng yòng yíxià ma? | Kann ich das kurz benutzen?
+我得走了 | wǒ děi zǒu le | Ich muss jetzt los
+我想去洗手间 | wǒ xiǎng qù xǐshǒujiān | Ich muss mal auf die Toilette
+我想休息一下 | wǒ xiǎng xiūxi yíxià | Ich möchte mich kurz ausruhen
+你能帮我吗? | nǐ néng bāng wǒ ma? | Kannst du mir helfen?
+不可以 | bù kěyǐ | Das geht nicht / nicht erlaubt
+# u16 | 🤝 | Business & Smalltalk | 3
+> **Höflichkeit im Geschäft:** 您 statt 你, Visitenkarte mit beiden Händen, Titel + Nachname: 王总 (Generaldirektor Wang), 李经理 (Manager Li).
+> **Komplimente** werden oft bescheiden abgewehrt: 哪里哪里 (ach was, keineswegs). Wer dein Chinesisch lobt (你中文说得很好!), dem antwortest du am besten mit 哪里哪里 – das wirkt sympathisch.
+很高兴认识您 | hěn gāoxìng rènshi nín | Freut mich sehr, Sie kennenzulernen
+久仰 | jiǔyǎng | Ich habe schon viel von Ihnen gehört (formell)
+我是…公司的 | wǒ shì … gōngsī de | Ich bin von der Firma …
+我在一家德国公司工作 | wǒ zài yì jiā Déguó gōngsī gōngzuò | Ich arbeite bei einer deutschen Firma
+工作 | gōngzuò | arbeiten / Arbeit
+经理 | jīnglǐ | Manager
+老板 | lǎobǎn | Chef
+客户 | kèhù | Kunde
+合作 | hézuò | Zusammenarbeit
+合作愉快 | hézuò yúkuài | Auf gute Zusammenarbeit
+出差 | chūchāi | Geschäftsreise
+我来出差 | wǒ lái chūchāi | Ich bin geschäftlich hier
+这是我第一次来深圳 | zhè shì wǒ dì yī cì lái Shēnzhèn | Ich bin zum ersten Mal in Shenzhen
+你中文说得很好! | nǐ Zhōngwén shuō de hěn hǎo! | Du sprichst sehr gut Chinesisch!
+哪里哪里 | nǎlǐ nǎlǐ | Ach was, keineswegs (bescheiden)
+过奖了 | guòjiǎng le | Sie schmeicheln mir
+您做什么工作? | nín zuò shénme gōngzuò? | Was machen Sie beruflich?
+我做贸易 | wǒ zuò màoyì | Ich bin im Handel tätig
+工厂 | gōngchǎng | Fabrik
+产品 | chǎnpǐn | Produkt
+价格 | jiàgé | Preis
+质量 | zhìliàng | Qualität
+样品 | yàngpǐn | Muster
+合同 | hétong | Vertrag
+加个微信吧 | jiā ge Wēixìn ba | Lass uns auf WeChat verbinden | 吧 am Satzende = Vorschlag: „lass uns …“.
+扫我吧 | sǎo wǒ ba | Scann meinen (QR-Code)
+欢迎来维也纳 | huānyíng lái Wéiyěnà | Willkommen in Wien (Einladung)
+辛苦了 | xīnkǔ le | Danke für Ihre Mühe
+一路平安 | yílù píng'ān | Gute Reise!
+# u17 | 📞 | Meeting & Telefon | 4
+> **在 zài + Verb** = gerade dabei sein: 他在开会 (Er ist gerade im Meeting). Am Telefon meldet man sich mit **喂 wéi** (Hallo?).
+> **一下 yíxià** nach dem Verb macht eine Bitte kürzer und höflicher: 等一下 (einen Moment), 看一下 (kurz anschauen).
+喂? | wéi? | Hallo? (am Telefon)
+请问 | qǐngwèn | Darf ich fragen … / Entschuldigung, …
+请问王经理在吗? | qǐngwèn Wáng jīnglǐ zài ma? | Ist Manager Wang da?
+他在开会 | tā zài kāihuì | Er ist gerade in einer Besprechung
+开会 | kāihuì | eine Besprechung haben
+会议室 | huìyìshì | Besprechungsraum
+我们几点开会? | wǒmen jǐ diǎn kāihuì? | Um wie viel Uhr ist das Meeting?
+我晚一点到 | wǒ wǎn yìdiǎn dào | Ich komme etwas später
+我在路上 | wǒ zài lùshang | Ich bin unterwegs
+我马上到 | wǒ mǎshàng dào | Ich bin gleich da
+请稍等 | qǐng shāo děng | Bitte warten Sie einen Moment
+我给你打电话 | wǒ gěi nǐ dǎ diànhuà | Ich rufe dich an
+打电话 | dǎ diànhuà | telefonieren
+发邮件 | fā yóujiàn | eine E-Mail schicken
+我发给你 | wǒ fā gěi nǐ | Ich schicke es dir
+看一下 | kàn yíxià | kurz anschauen
+没问题 | méi wèntí | Kein Problem
+有问题吗? | yǒu wèntí ma? | Gibt es Fragen/Probleme?
+我同意 | wǒ tóngyì | Ich stimme zu
+我考虑一下 | wǒ kǎolǜ yíxià | Ich überlege es mir
+信号不好 | xìnhào bù hǎo | Der Empfang ist schlecht
+# u18 | 🧱 | Satzbau & Fragewörter | 4
+> **Grundregel:** Wer – Wann – Wo – Was tun. 我 **明天** **在上海** 开会 (Ich habe morgen in Shanghai ein Meeting). Zeit und Ort stehen **vor** dem Verb.
+> **Fragewörter bleiben an ihrem Platz:** 你去哪里? (Du fährst wohin?), 这是什么? (Das ist was?), 谁? (wer), 什么时候? (wann), 为什么? (warum), 怎么? (wie).
+什么 | shénme | was
+谁 | shéi | wer
+哪里 | nǎlǐ | wo
+什么时候 | shénme shíhou | wann
+为什么 | wèishénme | warum
+怎么 | zěnme | wie
+怎么走? | zěnme zǒu? | Wie komme ich dorthin?
+怎么说? | zěnme shuō? | Wie sagt man das?
+这个用中文怎么说? | zhège yòng Zhōngwén zěnme shuō? | Wie sagt man das auf Chinesisch?
+这是什么? | zhè shì shénme? | Was ist das?
+你去哪里? | nǐ qù nǎlǐ? | Wohin gehst du?
+他是谁? | tā shì shéi? | Wer ist er?
+你什么时候回来? | nǐ shénme shíhou huílai? | Wann kommst du zurück?
+我明天在上海开会 | wǒ míngtiān zài Shànghǎi kāihuì | Ich habe morgen in Shanghai ein Meeting
+我在酒店等你 | wǒ zài jiǔdiàn děng nǐ | Ich warte im Hotel auf dich
+我们一起去吧 | wǒmen yìqǐ qù ba | Lass uns zusammen gehen
+还是 | háishi | oder (in Fragen)
+你喝茶还是咖啡? | nǐ hē chá háishi kāfēi? | Trinkst du Tee oder Kaffee?
+因为…所以… | yīnwèi … suǒyǐ … | weil … deshalb …
+如果 | rúguǒ | wenn, falls
+但是 | dànshì | aber
+# u19 | 🆘 | Flughafen, Gesundheit & Notfall | 4
+> Wichtige Nummern in China: **110** Polizei, **120** Rettung. In Hongkong: **999** für alles.
+> Hongkong spricht im Alltag **Kantonesisch** – mit Mandarin und Englisch kommst du aber meist gut durch.
+航班 | hángbān | Flug
+登机口 | dēngjīkǒu | Gate
+登机牌 | dēngjīpái | Bordkarte
+托运 | tuōyùn | Gepäck aufgeben
+我要托运行李 | wǒ yào tuōyùn xíngli | Ich möchte Gepäck aufgeben
+靠窗的座位 | kào chuāng de zuòwèi | Fensterplatz
+靠走道的座位 | kào zǒudào de zuòwèi | Gangplatz
+海关 | hǎiguān | Zoll
+救命! | jiùmìng! | Hilfe!
+请帮帮我 | qǐng bāngbang wǒ | Bitte helfen Sie mir
+我不舒服 | wǒ bù shūfu | Mir geht es nicht gut
+医院 | yīyuàn | Krankenhaus
+药店 | yàodiàn | Apotheke
+医生 | yīshēng | Arzt
+我头疼 | wǒ tóuténg | Ich habe Kopfschmerzen
+我肚子疼 | wǒ dùzi téng | Ich habe Bauchschmerzen
+发烧 | fāshāo | Fieber
+报警 | bàojǐng | die Polizei rufen
+我的钱包丢了 | wǒ de qiánbāo diū le | Meine Geldbörse ist weg
+我迷路了 | wǒ mílù le | Ich habe mich verlaufen
+大使馆 | dàshǐguǎn | Botschaft
+小心! | xiǎoxīn! | Vorsicht!
