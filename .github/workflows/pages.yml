@@ -5,16 +5,12 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-  pages: write
-  id-token: write
 concurrency:
   group: pages
   cancel-in-progress: true
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -29,22 +25,7 @@ jobs:
           cp dist/index.html dist/sw.js dist/manifest.webmanifest dist/course.json dist/*.png _site/
           touch _site/.nojekyll
           ls -la _site
-      - name: Configure Pages (try to enable)
-        id: pages
-        continue-on-error: true
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - name: Upload artifact
-        if: steps.pages.outcome == 'success'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - name: Deploy (Actions source)
-        if: steps.pages.outcome == 'success'
-        uses: actions/deploy-pages@v4
-      - name: Fallback - publish to gh-pages branch
-        if: steps.pages.outcome != 'success'
+      - name: Publish to gh-pages branch (GitHub Pages source)
         run: |
           cd _site
           git init -q -b gh-pages

@@ -16,6 +16,6 @@
 Fortschritt liegt in localStorage unter `mandarin-reise-v1`, Schlüssel = Hanzi – neue Units zerstören keinen alten Fortschritt.
 
 ## Deployment (GitHub Pages)
-Jeder Push auf `main` startet `.github/workflows/pages.yml`: `npm ci`, `node content/build-course.js`, `node build.js` und veröffentlicht `dist/` über GitHub Pages.
+Jeder Push auf `main` startet `.github/workflows/pages.yml`: `npm ci`, `node content/build-course.js`, `node build.js` und schiebt das Ergebnis auf den Branch `gh-pages`, den GitHub Pages ausliefert.
 Neue Units = nur `content/*.txt` bearbeiten und pushen – die App baut sich selbst neu.
 Alle Pfade sind relativ, die App läuft unter `https://<user>.github.io/<repo>/`. Icons liegen als Base64 in `assets/`.
